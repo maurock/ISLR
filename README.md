@@ -5,6 +5,7 @@ The solutions linked below are rendered using `nbviewer`. If you want to run the
 ## Solutions
 - [Chapter 2](https://nbviewer.jupyter.org/github/maurock/ISLR/blob/main/Chapter_2.ipynb)
 - [Chapter 3](https://nbviewer.jupyter.org/github/maurock/ISLR/blob/main/Chapter_3.ipynb)
+- [Chapter 4](https://nbviewer.jupyter.org/github/maurock/ISLR/blob/main/Chapter_4.ipynb)
 
 ## References
 Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. An Introduction to Statistical Learning : with Applications in R. New York :Springer, 2013.
