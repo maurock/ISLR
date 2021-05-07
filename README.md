@@ -1,4 +1,4 @@
-# ISLR
+# ISLR in Python
 Selected exercise solutions in python for the book ["An Introduction to Statistical Learning"](https://www.statlearning.com/) by G. James, D. Witten. T. Hastie and R. Tibshirani. <br>
 The solutions linked below are rendered using `nbviewer`. If you want to run the actual jupyter-notebooks, please refer to the code in the repository.
 
